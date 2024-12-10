@@ -1,11 +1,7 @@
 # Getting Started with Create React App
 ## Portfolio
-<img align="right" width="400" height="200" src="https://github.com/AsmaJalal/asma-portfolio/blob/master/src/portfolio.gif" alt="Asma Jalal">
+<img align="right" width="1000" height="500" src="https://github.com/AsmaJalal/asma-portfolio/blob/master/src/portfolio.gif" alt="Asma Jalal">
 
-
-## Available Scripts
-
-In the project directory, you can run:
 
 ### `npm start`
 
