@@ -1,6 +1,7 @@
 # Getting Started with Create React App
-<img align="right" width="140" height="140" src="https://github.com/AsmaJalal/asma-portfolio/blob/master/src/portfolio.gif" alt="Asma Jalal">
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## Portfolio
+<img align="right" width="400" height="200" src="https://github.com/AsmaJalal/asma-portfolio/blob/master/src/portfolio.gif" alt="Asma Jalal">
+
 
 ## Available Scripts
 
