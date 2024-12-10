@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 ## Portfolio
-<img align="right" width="1000" height="500" src="https://github.com/AsmaJalal/asma-portfolio/blob/master/src/portfolio.gif" alt="Asma Jalal">
+<img align="right" width="1400" height="500" src="https://github.com/AsmaJalal/asma-portfolio/blob/master/src/portfolio.gif" alt="Asma Jalal">
 
 
 ### `npm start`
